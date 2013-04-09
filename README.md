@@ -9,3 +9,5 @@ timus
 
 1086   http://acm.timus.ru/problem.aspx?space=1&num=1086
 
+1510   http://acm.timus.ru/problem.aspx?space=1&num=1510
+
